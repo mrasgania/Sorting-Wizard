@@ -1,4 +1,4 @@
-# Algorithm Visualizer
+# Sorting Wizard
 A <a href="https://mrasgania.github.io/Sorting-Wizard/">webpage</a> running a script which animates different sorting algorithms making them easier to understand.\
 Best viewed on Laptops or switch to portrait mode on mobile screens.
 <br>
